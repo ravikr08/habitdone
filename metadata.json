@@ -1,0 +1,6 @@
+{
+  "name": "HabitDone",
+  "description": "Offline native habit tracker with parent & sub-habits, 90-day heatmaps, SAF JSON backup/restore, and Glance home-screen widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

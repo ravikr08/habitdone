@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HabitDone</string>
+    <string name="widget_name">HabitDone Tracker</string>
+    <string name="widget_description">Track today\'s habit status and streak directly from your home screen.</string>
+</resources>
